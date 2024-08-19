@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+lib64/
+lib64
+ranks/
+pyvenv.cfg
+.env
+*.json
+*.csv
+*.zip
+matchList.txt
+graphs/
