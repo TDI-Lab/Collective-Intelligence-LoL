@@ -9,5 +9,6 @@ pyvenv.cfg
 *.json
 *.csv
 *.zip
+*.png
 matchList.txt
 graphs/
