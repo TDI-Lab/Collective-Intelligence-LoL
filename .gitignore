@@ -12,3 +12,6 @@ pyvenv.cfg
 *.png
 matchList.txt
 graphs/
+
+!dataset/sampleAggregateDataset.csv
+!dataset/sampleSummonerRanksDataset.csv
